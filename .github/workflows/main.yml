@@ -19,6 +19,6 @@ jobs:
           key: ${{ secrets.SSH_KEY }}
           port: 22
           script: |
-            cd /var/www/app
-            git pull origin main
+            cd /root/http/ci-cd
+            git pull origin master
             docker compose up -d --build
