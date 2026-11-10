@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Birinchi post",
+    "content": "Salom dunyo",
+    "userId": 1
+  },
+  {
+    "id": 2,
+    "title": "post",
+    "content": "Salom",
+    "userId": 1
+  }
+]
